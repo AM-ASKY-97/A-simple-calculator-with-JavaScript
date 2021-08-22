@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container
+{
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+    
+    
+}
+
+.header
+{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    background-color: DodgerBlue;
+    color: whitesmoke;
+    font-family: 'Roboto Slab', serif;
+    
+    
+}
+
+.header h1
+{
+    padding-top: 40px;
+    font-weight: bold;
+    
+}
+
+.main
+{
+    width: 100%;
+    height: 500px;
+    color: MidnightBlue;
+    
+    
+}
+
+.main .table
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 100%;
+    height: 350px; 
+}
+
+.table #num2tr
+{
+    padding-top: 30px;
+}
+
+.table #numtr
+{
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+
+#num1
+{
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#lbl
+{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.main .button
+{
+    padding-top: 70px;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    
+       
+}
+
+.button>div
+{
+    padding-top:  20px;
+    float: left;
+    width: 25%;
+    height: 40px;
+    
+}
+
+.button #btn
+{
+    width: 80%;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.main .result
+{
+    width: 100%;
+    height: 100px;
+    padding-top: 60px;
+    padding-left: 10px;
+    
+}
+
+.ans
+{
+    color: green;
+    font-weight: bold;
+}
+
+.footer
+{
+    width: 100%;
+    height: 90px;
+    background-color: DodgerBlue;
+    color: whitesmoke;
+    font-family: 'Allura', cursive;
+    text-align: center;
+}
+
+.reset>div
+{
+    padding-top:  20px;
+    float: left;
+    width: 25%;
+    height: 40px;
+    padding-top: 20px;
+   
+}
+
+.reset #bt
+{
+    width: 80%;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+.footer h2
+{
+    padding-top: 20px;
+}
