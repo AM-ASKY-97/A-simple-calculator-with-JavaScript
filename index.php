@@ -76,7 +76,7 @@
 
     <div class="footer">
 
-        <h2> A. mohammed Asky</h2>
+        <h2>Copyright  A. mohammed Asky</h2>
 
     </div>
 
